@@ -8,7 +8,7 @@ I think the main reason is that most of this libraries/algorthims are used for P
 In case someone wants to use ranked hands for preflop I created this simple [notebook](https://github.com/BrenoCPimenta/Poker-preflop-hand-rank-scraping-to-csv/blob/master/preflopCrawler.ipynb) that scrapes this [website](https://www.preflophands.com/), in wich the information is pretty straight foward.
 
 ## Download
-If you want to just download the CSV File is here.
+If you want to just download the CSV File is [here](https://github.com/BrenoCPimenta/Poker-preflop-hand-rank-scraping-to-csv/blob/master/preFlop-rank.csv).
 
 ## Organization
 * 1ªColumn: Rank 1 to 169<br><br>
